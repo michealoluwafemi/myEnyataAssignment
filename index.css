@@ -1,0 +1,70 @@
+body{
+	background-color: #BF1463; 
+	color: #eee; 
+	padding-left: 20px;
+	padding-right: 20px;
+}
+body p {
+	font-size: 12px;
+}
+#topNav a{
+	text-decoration: none;
+	color: #eee;
+}
+#rightNav{
+	float: right;
+}
+#rightNav li {
+	margin-right: 20px;	
+}
+ul li{
+	margin-left: auto;
+	display: inline
+}
+#content{
+	text-align: center;
+	margin-top: 80px;	
+}
+#formContent {
+	margin-top: 70px;
+}
+#title {
+	font-size: 35px;
+	font-weight: bold;
+}
+form #inputRow{
+	margin-bottom: 20px;
+}
+form #formText, form #formInput {
+	width: 445px;
+}
+form #formText {
+	padding: 8px 10px 8px 10px;
+}
+form #formInput_s {
+	width: 220px;
+}
+form input, form textarea {
+	font-size: 12px;
+}
+form #formInput, form #formInput_s {
+	height: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+form button {
+	height: 30px;
+	width: 60px;
+	color: #BF1463;
+	border: 5px;
+}
+#social img {
+	width: 25px;
+	height: 25px;
+}
+#social {
+	word-spacing: 35px;
+}
+#social a {
+	text-decoration: none;
+}
